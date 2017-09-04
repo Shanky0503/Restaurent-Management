@@ -1,0 +1,44 @@
+* Gather Requirements
+* Describe the app 
+* Identify the main objects
+* Describe Interactions
+* Create a class diagram
+
+
+Gather Requirements
+
+	what the app is going to do ?
+
+	functional requirements
+	Non-Functional requirements
+		Help
+		Legal 
+		Performance
+		Support
+		Security
+
+	what the must do ????
+
+Describe the app
+
+	simple narative to descibe how people use the app
+	mock up the Ui
+
+Identify the objects
+	
+	the point where the classes are idenytified
+
+Interactions
+
+	responsibilies of each objects
+	sequence diagram
+
+Class diagram 	
+
+	visual representation of class diagram
+
+
+
+
+
+	

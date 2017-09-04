@@ -1,0 +1,13 @@
+What the app is going to do ?
+	
+	app must take order and print bill.
+	* additional features will calculate finalcial expences for every week,month and year, also displays charts and low and highest selling products.  
+
+	* additional features for kitchen module will receive the order and lets the chef to acknowledge orders and modify orders or ask more information about the orders, strikeout the compleated items. Display only the starters or mains depending the order type.
+
+	*adding the customers information to the database for future use and retrive the info for discounts and other giveaways.
+	
+	 
+	
+
+	
